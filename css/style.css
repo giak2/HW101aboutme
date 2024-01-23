@@ -1,0 +1,49 @@
+h1{
+    color:crimson;
+    padding: 20px;
+    font-family: monospace;
+    border: 5px double;
+    border-color: peru;
+    background-color: midnightblue;
+}
+
+h2{
+    font-family: monospace;
+    background-color: orangered;
+}
+
+h3{
+    font-family: calibri;
+    background-color: orange;
+    padding: 10px;
+}
+
+body {
+    background-color: lightsteelblue;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+img {
+    width: 200px;
+    height: auto;
+    border: 3px solid red;
+    border: double;
+    align-content: center;
+}
+
+span{
+    color:whitesmoke;
+}
+
+.group1{
+    background-color: mediumseagreen;
+}
+
+ul{
+    padding: 2px;
+}
+
+ol{
+    padding: 2px;
+}
